@@ -1,0 +1,1 @@
+# Array-B-diisi-Array-A-dengan-bilangan-genap
